@@ -1,0 +1,82 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+	width: 970px;
+		
+	overflow: auto;
+
+}
+.carousel {
+	padding-top: 0px;
+
+}
+.right {
+	padding-top: 80px;
+
+}
+.header img {
+    overflow: auto;
+    padding: 5px 15px;
+    width: 200px;
+    margin: 15px;
+    float: left;
+}
+.header-links {
+	float: right;
+	padding: 15px 15px;
+	border-right: none;
+	margin: 15px;
+	background: #A35737;
+
+}
+.container {
+	width: auto;
+}
+.container h2{
+	text-align: center;
+	font-size: 25px;
+}
+.container p {
+	text-align: center;
+	line-height: initial;
+	color: rgba(85, 85, 85, 0.81);
+}
+.icons {
+	padding: 30px 200px;
+
+}
+.location {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.location a {
+	text-align: center;4
+}
+.dine {
+    text-align: center;
+}
+.map-generator {
+	max-width: 100%; 
+	max-height: 100%;
+	background: blue;
+}
+.chef h2{
+	text-align: center;
+	font-size: 25px;
+}
+.chef p {
+	text-align: center;
+	line-height: initial;
+	color: rgba(85, 85, 85, 0.81);
+}
+
+
+
+
