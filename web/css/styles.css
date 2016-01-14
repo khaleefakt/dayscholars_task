@@ -76,7 +76,13 @@ body {
 	line-height: initial;
 	color: rgba(85, 85, 85, 0.81);
 }
-
+.footer {
+text-align: center;
+}
+.footer img {
+	    width: 30px;
+	    text-align: center;
+}
 
 
 
